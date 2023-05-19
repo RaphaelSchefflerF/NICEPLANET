@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['confirma'])) {
                         <input type="password" name="confirmaSenha" class="form-control" required>
                     </div>
                     <div class="form-group mb-3">
-                        <input type="submit" name="submit" class="btn btn-primary" value="Confirmar Registro">
+                        <input type="submit" name="confirma" class="btn btn-primary" value="Confirmar Registro">
                     </div>
                     <p>Já tem uma conta?<a href="index.php">Login aqui.</a>.</p>
                 </form>
