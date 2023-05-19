@@ -26,7 +26,7 @@
                         <option value="2">Propriedade</option>
                     </select>
                 </ul>
-                <input name="buscar" class="form-control me-2" type="search" placeholder="  " aria-label="Search">
+                <input name="buscar" class="form-control me-2" type="search" placeholder="Digite um ID" aria-label="Search">
                 <input type="submit" name="confirma" class="btn btn-primary" value="Confirma">
             </form>
             <ul class="navbar-nav me-auto"></ul>
